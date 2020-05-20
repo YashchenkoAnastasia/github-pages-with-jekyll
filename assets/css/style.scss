@@ -2,9 +2,6 @@
 ---
 
 @import "{{ site.theme }}";
-     section {
-  width: calc(100% - 300px) !important;
+.page {
+  width: calc(100% - #{$right-sidebar-width-narrow});
 }
-    .wrapper {
-    min-width: 0
-    }
