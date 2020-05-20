@@ -1,10 +1,9 @@
 ---
 ---
 
-@import "{{ site.theme }}";
-section {
-  width: calc(100% - 300px) !important;
+@import "{{ jekyll-theme-minimal }}";
+
+.inner {
+width: 300px; /* Ширина слоя */
+padding: 1px; /* Поля вокруг текста */
 }
-    .wrapper {
-    min-width: 0
-    }
