@@ -2,3 +2,9 @@
 ---
 
 @import "{{ site.theme }}";
+     section {
+  width: calc(100% - 300px) !important;
+}
+    .wrapper {
+    min-width: 0
+    }
