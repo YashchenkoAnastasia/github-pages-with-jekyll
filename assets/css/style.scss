@@ -29,16 +29,16 @@ header {
 @media print, screen and (max-width: 480px) {
 section {
  width:100%;
- float:top;
- padding-bottom:50px
+ padding-bottom:50px;
 }
 footer {
- width:100%;
- float:top;
+ width:30%;
+ float:bottom;
+ position: relative;
  bottom:50px;
 }
 header {
  width:100%;
- float:bottom;
+  position: relative;
 }
 }
