@@ -2,5 +2,8 @@
 ---
 
 @import "{{ site.theme }}";
- { max-width: 75%; }
+.wrapper {
+width:100%;
+margin:0 auto
+}
 
