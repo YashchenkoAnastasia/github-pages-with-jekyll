@@ -25,3 +25,11 @@ header {
     float: left;
     position: fixed;
 }
+
+@media print, screen and (max-width: 480px) {
+ section {
+ width:20px;
+ float:right;
+ padding-bottom:50px;
+}
+}
