@@ -42,7 +42,7 @@ header {
   position: relative;
 }
 }
-@media print, screen and (max-height: 400px) {
+@media print, screen and (max-height: 80%) {
 section {
  width:100%;
  padding-bottom:50px;
