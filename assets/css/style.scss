@@ -3,7 +3,7 @@
 
 @import "{{ site.theme }}";
 .wrapper {
-width:100%;
-margin:100 
+width: calc(100% - 300px);
+margin:0 auto
 }
 
