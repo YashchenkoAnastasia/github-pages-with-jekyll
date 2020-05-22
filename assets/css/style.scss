@@ -8,14 +8,8 @@ margin:0 auto
 }
 
 section {
- width:70%;
+ width:(100% - 270px);
  float:right;
  padding-bottom:50px
 }
 
-footer {
-    width: 30%;
-    float: left;
-    position: fixed;
-    bottom: 50px;
-}
