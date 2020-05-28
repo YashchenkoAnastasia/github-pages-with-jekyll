@@ -1,6 +1,6 @@
 ---
 title: autoML
-layout: template
+layout: page
 filename: autoML.md
 --- 
 
