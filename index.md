@@ -1,2 +1,2 @@
 FEDOT - фреймворк для генеративного автоматического машинного обучения, позволяющий создавать сложные композитные модели, обеспечивающие эффективное решение различных прикладных задач
-[AutoML](https://yashchenkoanastasia.github.io/github-pages-with-jekyll/autoML/)
+[AutoML](https://yashchenkoanastasia.github.io/github-pages-with-jekyll/autoML)
