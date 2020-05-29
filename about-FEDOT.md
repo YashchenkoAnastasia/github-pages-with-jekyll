@@ -1,3 +1,9 @@
+### [Автоматическое МО](https://yashchenkoanastasia.github.io/github-pages-with-jekyll/autoML)
+### [Фреймворк FEDOT](https://yashchenkoanastasia.github.io/github-pages-with-jekyll/about-FEDOT)
+### [Как нас процитировать](https://yashchenkoanastasia.github.io/github-pages-with-jekyll/citation)
+### [How to embed custom model into the FEDOT pipeline](https://yashchenkoanastasia.github.io/github-pages-with-jekyll/how-to-embed)
+### [Руководство по работе с репозиторием](https://yashchenkoanastasia.github.io/github-pages-with-jekyll/rukovodstvo)
+
 # Фреймворк FEDOT
 ## Какие идеи реализуются в фреймворке FEDOT?
 * МО и АвтоМО должно быть более «всеядным». Фреймворк FEDOT позволит создавать математические модели для решения предметных задач с возможностью привлечения дополнительных предметных знаний (например, в виде предметных моделей или имитации экспертной логики при построении моделей).
