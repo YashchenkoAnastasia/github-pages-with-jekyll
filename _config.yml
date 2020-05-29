@@ -2,7 +2,10 @@ title: "FEDOT"
 date: 2020-05-28
 theme: jekyll-theme-minimal
 description: > # this means to ignore newlines until "baseurl:"
-  <a href="https://yashchenkoanastasia.github.io/github-pages-with-jekyll/autoML">AutoML</a> <a href="https://yashchenkoanastasia.github.io/github-pages-with-jekyll/about-FEDOT">About FEDOT</a> <a href="https://yashchenkoanastasia.github.io/github-pages-with-jekyll/citation">Как нас процитировать</a> <a href="https://yashchenkoanastasia.github.io/github-pages-with-jekyll/how-to-embed">How to embed custom model into the FEDOT pipeline</a> <a href="https://yashchenkoanastasia.github.io/github-pages-with-jekyll/rukovodstvo">Руководство по работе с репозиторием</a>
+  <a href="https://yashchenkoanastasia.github.io/github-pages-with-jekyll/autoML">AutoML</a> 
+  <a href="https://yashchenkoanastasia.github.io/github-pages-with-jekyll/about-FEDOT">About FEDOT</a> 
+  
+  <a href="https://yashchenkoanastasia.github.io/github-pages-with-jekyll/citation">Как нас процитировать</a> <a href="https://yashchenkoanastasia.github.io/github-pages-with-jekyll/how-to-embed">How to embed custom model into the FEDOT pipeline</a> <a href="https://yashchenkoanastasia.github.io/github-pages-with-jekyll/rukovodstvo">Руководство по работе с репозиторием</a>
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
