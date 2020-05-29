@@ -1,3 +1,8 @@
+### [Автоматическое МО](https://yashchenkoanastasia.github.io/github-pages-with-jekyll/autoML)
+### [Фреймворк FEDOT](https://yashchenkoanastasia.github.io/github-pages-with-jekyll/about-FEDOT)
+### [Как нас процитировать](https://yashchenkoanastasia.github.io/github-pages-with-jekyll/citation.md)
+### [How to embed custom model into the FEDOT pipeline](https://yashchenkoanastasia.github.io/github-pages-with-jekyll/how-to-embed.md)
+### [Руководство по работе с репозиторием](https://yashchenkoanastasia.github.io/github-pages-with-jekyll/rukovodstvo.md)
 
 # Что такое автоматическое машинное обучение?
 Автоматическое машинное обучение (AutoML) – интеллектуальные технологии автоматизации процессов работы с данными и моделями машинного обучения для решения задач реального мира. Автоматическое МО решает задачи оптимизации параметров, отбора признаков, выбора типа модели и т.д.
