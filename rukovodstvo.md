@@ -1,3 +1,9 @@
+### [Автоматическое МО](https://yashchenkoanastasia.github.io/github-pages-with-jekyll/autoML)
+### [Фреймворк FEDOT](https://yashchenkoanastasia.github.io/github-pages-with-jekyll/about-FEDOT)
+### [Как нас процитировать](https://yashchenkoanastasia.github.io/github-pages-with-jekyll/citation)
+### [How to embed custom model into the FEDOT pipeline](https://yashchenkoanastasia.github.io/github-pages-with-jekyll/how-to-embed)
+### [Руководство по работе с репозиторием](https://yashchenkoanastasia.github.io/github-pages-with-jekyll/rukovodstvo)
+
 # Руководство по работе с репозиторием
 ## Основные принципы работы с репозиториями FEDOT и FEDOT.Algs таковы:
 
